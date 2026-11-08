@@ -1,1 +1,6 @@
-# hello-robot
+hello-robot
+
+
+day1.
+===
+
